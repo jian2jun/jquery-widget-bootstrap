@@ -1,1 +1,1 @@
-# jquery-widget-bootstrap
+# jquery-bootstrap-widget
