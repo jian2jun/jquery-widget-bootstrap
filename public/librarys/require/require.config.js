@@ -5,6 +5,7 @@ requirejs = {
         jquery: "../librarys/jquery/jquery",
         bootstrap: "../librarys/bootstrap/js/bootstrap",
         widget: "../librarys/jquery/jquery.widget",
+        validate: "../librarys/jquery/jquery.validate",
         "w": "../widgets"
     },
     shim: {

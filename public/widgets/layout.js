@@ -1,4 +1,4 @@
-define(["jquery", "base"], function($){
+define(["jquery", "w/base"], function($){
 
     $.widget("ui.layout", $.ui.base, {
 
@@ -340,9 +340,8 @@ define(["jquery", "base"], function($){
                         left: -left,
                         width: that.element.width()
                     });
-
-
                 });
+
             this.aside
                 .on('show.bs.collapse', '.menu', function (event) {
                     var target = $(event.target);

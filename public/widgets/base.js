@@ -1,4 +1,4 @@
-define(['jquery', 'bootstrap', 'widget', 'validate'], function($){
+define(["jquery", "widget", "bootstrap", "validate"], function($){
 
 	//validate---------------------------------------
 
